@@ -5,13 +5,13 @@
   "license": "MIT",
   "devDependencies": {
     "netlify-cli": "12.2.9",
-    "prisma": "^4.7.1"
+    "prisma": "^4.11.0"
   },
   "scripts": {
     "build": "prisma generate",
     "dev": "netlify dev"
   },
   "dependencies": {
-    "@prisma/client": "^4.7.1"
+    "@prisma/client": "^4.11.0"
   }
 }
